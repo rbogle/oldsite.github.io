@@ -107,9 +107,9 @@ author:
   location         : "Flagstaff, AZ"
   email            : "rbogle@usgs.gov"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:rbogle@usgs.gov
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:rbogle@usgs.gov
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rianbogle.com"
@@ -294,6 +294,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      header: 
+        image: /assets/images/books_header.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -301,3 +303,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header: 
+        image: /assets/images/books_header.jpg
