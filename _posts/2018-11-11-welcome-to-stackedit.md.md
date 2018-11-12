@@ -1,8 +1,7 @@
 ---
-layout: single
 title:  "Welcome to StackEdit!"
-date:   2018-11-12 07:38:50 -0700
-categories: jekyll update
+date:   2018-11-12 08:17:00 -0700
+categories: editors 
 ---
 # Welcome to StackEdit!
 
@@ -148,5 +147,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzA1NjYyMCwtMTc0MzQ2NDQ2OV19
+eyJoaXN0b3J5IjpbLTEyNDM1OTA0NjMsLTE3NDM0NjQ0NjldfQ
+==
 -->
