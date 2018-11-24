@@ -1,11 +1,10 @@
-–––
+---
 layout: single
 title: “Beach Thoughts”
 author: Rian  
 tags:  'Beach, rest, relaxation'  
 categories: Personal
-–––
-
+---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
