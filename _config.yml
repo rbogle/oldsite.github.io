@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Rian Bogle"
   avatar           : "https://s.gravatar.com/avatar/9e9250b858b18ad1bedd55cb9dce23bd?s=80"
-  bio              : "Gov Geek into DevOps, HPC, Data-Analytics and Science"
+  bio              : "Tech Geek into Serverless, DevOps, HPC, Data-Analytics and Science"
   location         : "Flagstaff, AZ"
-  email            : "rbogle@usgs.gov"
+  email            : "me@rianbogle.com"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
@@ -131,7 +131,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:rbogle@usgs.gov
+      url: mailto:me@rianbogle.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rianbogle.com"
