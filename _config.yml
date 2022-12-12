@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Rian Bogle"
 title_separator          : "-"
 name                     : "Rian Bogle"
-description              : "On going thoughts and experiments"
+description              : "Ongoing thoughts and experiments"
 url                      : https://rbogle.github.io 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rbogle/rbogle.github.io"
